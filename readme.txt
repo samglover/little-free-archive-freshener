@@ -52,7 +52,7 @@ The *ignore it forever* option is for posts or pages that don’t ever need to b
 
 ### 1.0.3 - 2026-04-20
 
-#### Changed
+#### Fixed
 - Addressed WP Coding Standards errors and warnings
 
 

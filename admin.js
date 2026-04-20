@@ -13,6 +13,7 @@
       let baseURL       = [location.protocol, '//', location.host, location.pathname].join('');
       const params      = new URLSearchParams(location.search);
 
+      params.delete('lfaf_nonce');
       params.delete('lfaf_archive_action');
       params.delete('lfaf_post_id');
 

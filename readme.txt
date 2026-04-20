@@ -3,8 +3,8 @@
 Contributors: samglover
 Tags: archive, maintenance, seo
 Requires at least: 5.5
-Tested up to: 6.6
-Requires PHP: 7.3.5
+Tested up to: 6.9.4
+Requires PHP: 7.4
 Stable tag: trunk
 License: GPLv3
 License URI: https://www.gnu.org/licenses/gpl-3.0.en.html
@@ -16,7 +16,7 @@ The Little Free Archive Freshener plugin for WordPress is an editorial and SEO t
 
 It is a good practice to review your evergreen posts and pages periodically to update and expand the information on them and improve their SEO performance. But if you have a lot of posts and pages it can be hard to keep track of them. Little Free Air Freshener makes it simple by suggesting one at a time for you to work on.
 
-== Frequently Asked Questions ==
+== Frequently asked questions ==
 
 = Where can I find the options? =
 
@@ -49,6 +49,18 @@ The *ignore it forever* option is for posts or pages that don’t ever need to b
 
 
 == Changelog ==
+
+### 1.0.3 - 2026-04-20
+
+#### Fixed
+- Addressed WP Coding Standards errors and warnings
+
+
+### 1.0.2 - 2023-08-28
+
+#### Fixed
+- Fixed a typo in `admin.js`
+
 
 ### 1.0.1 - 2023-05-18
 
